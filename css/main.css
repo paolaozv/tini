@@ -1,0 +1,129 @@
+/* Inserte su codigo aqui */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: Roboto;
+}
+
+.titulo {
+	color: #FFFFFF;
+}
+
+button .titulo {
+	font-size: 20px;
+}
+
+.boton {
+	background-color: #FCBA43;
+	border: 0;
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+}
+
+.enlace {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.fondo {
+	width: 100%;
+	height: 600px;
+	background-color: #FCCE09;
+}
+
+.imagenes {
+	width: 100%;
+	height: 1120px;
+	background-color: #EAEAE9;
+}
+
+.box {
+	background-color: #FFFFFF;
+}
+
+.izq {
+	position: relative;
+	left: 150px;
+}
+
+.box .foto {
+	width: 70%;
+	position: relative;
+	top: 30px;
+	left: 15%;
+}
+
+.footer {
+	width: 100%;
+	height: 60px;
+	background-color: #262624;
+	color: #FFFFFF;
+	padding-top: 20px;
+}
+
+.correo {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.caja .box {
+	width: 65%;
+	margin: 30px;
+}
+
+.caja {
+	position: relative;
+	left: 20px;
+}
+
+.menu {
+	text-decoration: none;
+	margin-left: 25px;
+}
+
+h3 {
+	margin-top: 40px;
+	margin-left: 20px;
+	color: #848385;
+}
+
+p {
+	margin-top: 10px;
+	margin-left: 10px;
+	color: #C5BFC2;
+}
+
+.boton-box {
+	margin-top: 10px;
+	margin-left: 40%;
+	margin-bottom: 10px;
+	background-color: #FCBA43;
+	border: 0;
+	width: 100px;
+	height: 30px;
+}
+
+.ubicacion {
+	position: relative;
+	top: 40px;
+	left: 50px;
+}
+
+.center {
+	text-align: center;
+	position: relative;
+	top: 250px;
+	left: 150px;
+}
+
+.segundo {
+	margin-top: 0px;
+	margin-right: 16px;
+}
+
+.menu-bar {
+	position: relative;
+	top: -10px;
+	left: 750px;
+}
